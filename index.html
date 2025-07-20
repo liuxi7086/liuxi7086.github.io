@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>一键复制文案工具</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1><i class="fas fa-copy"></i> 一键复制文案工具</h1>
+            <p>选择产品分类，一键复制您需要的文案</p>
+        </header>
+
+        <div class="main-content">
+            <!-- 左侧分类导航 -->
+            <div class="sidebar">
+                <h3>产品分类</h3>
+                <div class="category-list">
+                    <div class="category-item active" data-category="electronics">
+                        <i class="fas fa-mobile-alt"></i>
+                        <span>电子产品</span>
+                    </div>
+                    <div class="category-item" data-category="clothing">
+                        <i class="fas fa-tshirt"></i>
+                        <span>服装服饰</span>
+                    </div>
+                    <div class="category-item" data-category="beauty">
+                        <i class="fas fa-spa"></i>
+                        <span>美妆护肤</span>
+                    </div>
+                    <div class="category-item" data-category="food">
+                        <i class="fas fa-utensils"></i>
+                        <span>食品饮料</span>
+                    </div>
+                    <div class="category-item" data-category="home">
+                        <i class="fas fa-home"></i>
+                        <span>家居用品</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- 右侧文案展示区域 -->
+            <div class="content-area">
+                <div class="content-header">
+                    <h2 id="category-title">电子产品</h2>
+                </div>
+
+                <div class="copy-items" id="copy-items">
+                    <!-- 文案项目将通过JavaScript动态生成 -->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- 复制成功提示 -->
+    <div class="toast" id="toast">
+        <i class="fas fa-check-circle"></i>
+        <span>复制成功！</span>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html> 
