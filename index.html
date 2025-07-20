@@ -14,43 +14,60 @@
             <p>选择产品分类，一键复制您需要的文案</p>
         </header>
 
-        <div class="main-content">
-            <!-- 左侧分类导航 -->
-            <div class="sidebar">
-                <h3>产品分类</h3>
-                <div class="category-list">
-                    <div class="category-item active" data-category="electronics">
-                        <i class="fas fa-mobile-alt"></i>
-                        <span>电子产品</span>
+        <!-- Tab 切换区 -->
+        <div class="tab-bar">
+            <button class="tab-btn active" data-tab="preview"><i class="fas fa-eye"></i> 文案预览</button>
+            <button class="tab-btn" data-tab="manage"><i class="fas fa-cog"></i> 文案管理</button>
+        </div>
+
+        <!-- 预览区 -->
+        <div id="tab-preview" class="tab-content active">
+            <div class="main-content">
+                <!-- 左侧分类导航 -->
+                <div class="sidebar">
+                    <h3>产品分类</h3>
+                    <div class="category-list">
+                        <div class="category-item active" data-category="electronics">
+                            <i class="fas fa-mobile-alt"></i>
+                            <span>电子产品</span>
+                        </div>
+                        <div class="category-item" data-category="clothing">
+                            <i class="fas fa-tshirt"></i>
+                            <span>服装服饰</span>
+                        </div>
+                        <div class="category-item" data-category="beauty">
+                            <i class="fas fa-spa"></i>
+                            <span>美妆护肤</span>
+                        </div>
+                        <div class="category-item" data-category="food">
+                            <i class="fas fa-utensils"></i>
+                            <span>食品饮料</span>
+                        </div>
+                        <div class="category-item" data-category="home">
+                            <i class="fas fa-home"></i>
+                            <span>家居用品</span>
+                        </div>
                     </div>
-                    <div class="category-item" data-category="clothing">
-                        <i class="fas fa-tshirt"></i>
-                        <span>服装服饰</span>
+                </div>
+
+                <!-- 右侧文案展示区域 -->
+                <div class="content-area">
+                    <div class="content-header">
+                        <h2 id="category-title">电子产品</h2>
                     </div>
-                    <div class="category-item" data-category="beauty">
-                        <i class="fas fa-spa"></i>
-                        <span>美妆护肤</span>
-                    </div>
-                    <div class="category-item" data-category="food">
-                        <i class="fas fa-utensils"></i>
-                        <span>食品饮料</span>
-                    </div>
-                    <div class="category-item" data-category="home">
-                        <i class="fas fa-home"></i>
-                        <span>家居用品</span>
+                    <div class="copy-items" id="copy-items">
+                        <!-- 文案项目将通过JavaScript动态生成 -->
                     </div>
                 </div>
             </div>
+        </div>
 
-            <!-- 右侧文案展示区域 -->
-            <div class="content-area">
-                <div class="content-header">
-                    <h2 id="category-title">电子产品</h2>
-                </div>
-
-                <div class="copy-items" id="copy-items">
-                    <!-- 文案项目将通过JavaScript动态生成 -->
-                </div>
+        <!-- 管理区 -->
+        <div id="tab-manage" class="tab-content">
+            <div class="manage-panel">
+                <!-- 分类、语言、文案管理和导入导出功能将在这里动态生成 -->
+                <h2><i class="fas fa-cog"></i> 文案管理</h2>
+                <div id="manage-root"></div>
             </div>
         </div>
     </div>

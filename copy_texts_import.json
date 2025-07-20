@@ -1,0 +1,85 @@
+{
+  "copyData": {
+    "弹力短袖长袖": {
+      "title": "弹力短袖长袖",
+      "items": [
+        {"zh": "这个会打折吗？我的购物车已经准备好了！🛒🔥", "en": "Does it go on sale? My cart is ready! 🛒🔥", "tl": "¿Está en oferta? ¡Mi carrito está listo! 🛒🔥"},
+        {"zh": "等等……这是经济实惠还是我快破产了？😂", "en": "Wait… is this budget-friendly or am I about to go broke? 😂", "tl": "Espera... ¿esto es asequible o estoy a punto de quedarme en quiebra? 😂"},
+        {"zh": "救命，我选不出颜色！你最喜欢哪个？😭", "en": "HELP, I can’t pick a color! Which one is your fave? 😭", "tl": "¡AYUDA, no puedo elegir un color! ¿Cuál es tu favorito? 😭"},
+        {"zh": "这些颜色太美了！粉色系还是中性色，什么感觉？👀", "en": "These colors are SO aesthetic! Pastels or neutrals, what’s the vibe? 👀", "tl": "¡Estos colores son TAN estéticos! ¿Pasteles o neutros, cuál es la vibra? 👀"},
+        {"zh": "这个色调给人“贵但实惠”的感觉！超喜欢！😍", "en": "This shade is giving ‘expensive but affordable’ vibes! LOVE IT! 😍", "tl": "¡Este tono me da vibras de ‘caro pero asequible’! ¡ME ENCANTA! 😍"},
+        {"zh": "等等……为什么它比我的耐心还要有弹性？！🤯", "en": "WAIT… why is it stretching more than my patience?! 🤯", "tl": "ESPERA… ¿por qué estira más que mi paciencia? 🤯"},
+        {"zh": "那个弹力测试让我信服。拿钱来！💥", "en": "That stretch test just convinced me. TAKE MY MONEY! 💥", "tl": "Esa prueba de elasticidad me convenció. ¡TOMA MI DINERO! 💥"},
+        {"zh": "这个比我这个月的预算还要弹……😭😂", "en": "This has more stretch than my budget this month 😭😂", "tl": "Esto tiene más elasticidad que mi presupuesto este mes 😭😂"},
+        {"zh": "弹性比我早晨的瑜伽练习还好！🔥", "en": "It’s stretching better than my morning yoga routine! 🔥", "tl": "¡Estira mejor que mi rutina de yoga matutina! 🔥"},
+        {"zh": "等等……这是布料还是魔法？！✨", "en": "Hold up… is this fabric or magic?!! ✨", "tl": "Espera… ¿esto es tela o magia?!! ✨"},
+        {"zh": "穿几次会回弹还是会松？有人试试！🧐", "en": "Will it snap back or get loose after a few wears? Someone test it! 🧐", "tl": "¿Volverá a su forma o se aflojará después de unos usos? ¡Alguien que lo pruebe! 🧐"},
+        {"zh": "弹性很好，但它还会贴合身体吗？", "en": "Stretchy is great, but does it still hug the body nicely?", "tl": "Ser elástico está bien, pero ¿sigue ajustando bien al cuerpo?"},
+        {"zh": "不会动时也不会抗拒的衬衫？", "en": "Dress shirts that don’t fight back when I move?", "tl": "¿Camisas que no se resisten cuando me muevo?"},
+        {"zh": "说真的，我以前的衬衫穿起来像穿纸板一样😂", "en": "I swear, my old shirts feel like wearing cardboard compared to this. 😂", "tl": "Lo juro, mis camisas viejas se sienten como cartón comparadas con esta. 😂"},
+        {"zh": "拉伸胳膊不会再有绿巨人时刻？拿钱！😆", "en": "No more Hulk moments when stretching my arms? Take my money! 😆", "tl": "¿Ya no más momentos Hulk al estirar los brazos? ¡Tomen mi dinero! 😆"},
+        {"zh": "我需要五件。每天一件，工作日不用再忍受硬邦邦的衬衫。", "en": "I need 5 of these. One for each workday, so I never have to deal with stiff shirts again.", "tl": "Necesito cinco de estas. Una para cada día de trabajo, así nunca más uso camisas tiesas."},
+        {"zh": "如果我前任有这件衬衫那么弹性，我们现在还在一起😭", "en": "If my ex was as stretchy as this shirt, we’d still be together. 😭", "tl": "Si mi ex hubiera sido tan flexible como esta camisa, todavía estaríamos juntos. 😭"},
+        {"zh": "这件衬衫比我周末的计划还灵活😂", "en": "This shirt is more flexible than my weekend plans. 😂", "tl": "Esta camisa es más flexible que mis planes de fin de semana. 😂"}
+      ]
+    },
+    "四面弹": {
+      "title": "四面弹",
+      "items": [
+        {"zh": "这个价格真的太划算了！还有谁要一起买？👀", "en": "For this price, you can’t go wrong! Who else is grabbing one? 👀", "tl": "¡Por este precio, no hay pierde! ¿Quién más se lo va a llevar? 👀"},
+        {"zh": "等等，这个价格能买到这么多？？真的太值了！", "en": "Wait, all of this for that price?? That's actually really good!", "tl": "Espera, ¿todo esto por ese precio? ¡Eso está realmente bien!"},
+        {"zh": "哇，三件套竟然这么实惠。可能要下单了！", "en": "Wow, for a 3-piece set, this is super affordable. Might have to grab it!", "tl": "Wow, para ser un set de 3 piezas, está súper accesible. Puede que lo compre."},
+        {"zh": "所以如果我买这些，等于是在省钱……对吧？😉", "en": "So basically, if I buy these, I’m saving money… right? 😉", "tl": "O sea, si compro esto… básicamente estoy ahorrando dinero, ¿no? 😉"}
+      ]
+    },
+    "西裤": {
+      "title": "西裤",
+      "items": [
+        {"zh": "等等……这条裤子竟然不到33刀？👀 我以为会贵很多！", "en": "Wait… under $33 for these? 👀 I was expecting them to be way more expensive!", "tl": "Espera… ¿menos de $33 por estos? 👀 ¡Pensé que iban a ser mucho más caros!"},
+        {"zh": "我还以为这是设计师品牌裤子，看到价格直接下单，太值了！🔥", "en": "I legit thought these were designer pants until I saw the price. Steal! 🔥", "tl": "De verdad pensé que estos eran pantalones de diseñador hasta que vi el precio. ¡Una ganga! 🔥"}
+      ]
+    },
+    "格子": {
+      "title": "格子",
+      "items": [
+        {"zh": "兄弟，你觉得哪个颜色最适合大家穿？帮我决定🙏🏽", "en": "Bro, which one do think is the best color for everyone wear? HELP ME DECIDE🙏🏽", "tl": "Bro, ¿cuál crees que es el mejor color para que todos lo usen? AYÚDAME A DECIDIR 🙏🏽"},
+        {"zh": "看起来不错！喜欢蓝色", "en": "Looks good! Love the blue", "tl": "¡Se ve bien! Me encanta el azul"}
+      ]
+    },
+    "棉麻": {
+      "title": "棉麻",
+      "items": [
+        {"zh": "两件套这个价格？！简直捡到宝了。😍", "en": "Two pieces for this price?! That’s a steal. 😍", "tl": "¿¡Dos piezas por este precio!? Es una ganga. 😍"}
+      ]
+    },
+    "古巴牛津纺": {
+      "title": "古巴牛津纺",
+      "items": [
+        {"zh": "我刚收到两件.. 👍👍👍", "en": "I just got two.. 👍👍👍", "tl": "Acabo de recibir dos… 👍👍👍"}
+      ]
+    },
+    "运动长裤": {
+      "title": "运动长裤",
+      "items": [
+        {"zh": "4个一套多少钱？我现在超想买！😍🔥", "en": "How much for the whole set? Need this ASAP! 😍🔥", "tl": "¿Cuánto cuesta el set completo? ¡Necesito esto YA! 😍🔥"}
+      ]
+    },
+    "撞色短裤": {
+      "title": "撞色短裤",
+      "items": [
+        {"zh": "4个一套多少钱？我现在超想买！😍🔥", "en": "How much for the whole set? Need this ASAP! 😍🔥", "tl": "¿Cuánto cuesta el set completo? ¡Necesito esto YA! 😍🔥"}
+      ]
+    },
+    "二合一短裤": {
+      "title": "二合一短裤",
+      "items": [
+        {"zh": "等等… 3条短裤这个价格？太划算了 😳", "en": "Wait… 3 shorts for this price? That’s a steal 😳", "tl": "Espera… ¿3 shorts por este precio? Es una ganga 😳"}
+      ]
+    }
+  },
+  "languages": [
+    { "key": "zh", "name": "中文" },
+    { "key": "en", "name": "English" },
+    { "key": "tl", "name": "菲律宾语" }
+  ]
+} 
